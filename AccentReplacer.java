@@ -1,3 +1,4 @@
+@author Igor Petriska
 public class AccentReplacer {
 
 	  public static final String getCleanText(String input)
